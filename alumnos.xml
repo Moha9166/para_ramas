@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <listadealumnos>
-   <alumno>	
+   <Alumno>	
 	<nombre>Juan</nombre>
 	<edad>19</edad>
    </alumno>		
